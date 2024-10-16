@@ -77,6 +77,7 @@ Email Support: fovincent@cbm.gov.ng
                 <ul>
                     <li><a href="#">Privacy Policy</a></li>
                     <li><a href="#">Terms of Service</a></li>
+                    <p><a href="https://sway.cloud.microsoft/pglLzQWOgACMGVGW?accessible=true">Terms of Service</a></p>
                 </ul>
             </nav>
         </div>
