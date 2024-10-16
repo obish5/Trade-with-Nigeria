@@ -50,7 +50,10 @@ yoyoyoyoyoyoy
         </div>
     </section>
 
-<b> FUNCTIONAL AND TECHNICAL SUPPORT
+<section id="support">
+        <div class="container">
+        <h2> <b> FUNCTIONAL AND TECHNICAL SUPPORT</h2>
+
 Webb Fontaine technical support | For issues or questions regarding the utilization of the NSW Trade Portal or its services:
 
 Hot Line: 0802-6585-661, 0705-3010-369, (0) 13422567, (0) 12913265
