@@ -40,7 +40,7 @@ yoyoyoyoyoyoyoyoyo
             </div>
         </div>
     </section>
-yoyoyoyoyoyoy
+All services are provided subject to availability and discretion. We make no guarantees regarding the outcomes or results of using our services.
     <section id="opportunities">
         <div class="container">
             <h2>Trade Opportunities</h2>
