@@ -49,7 +49,23 @@ yoyoyoyoyoyoy
             <a href="#" class="cta-button">Explore Opportunities</a>
         </div>
     </section>
-yoyoyo
+FUNCTIONAL & TECHNICAL SUPPORT
+
+WEBB FONTAINE TECHNICAL SUPPORT | For issues or questions regarding the utilization of the NSW Trade Portal or its services:
+
+Hot Line: 0802-6585-661, 0705-3010-369, (0) 13422567, (0) 12913265
+Online Chat (Skype): wfnsupport
+Email Support: support@trade.gov.ng
+NIGERIA CUSTOMS SERVICE | For issues or questions regarding the PAAR issuance process (rejection, registration, etc.):
+
+24/7 Helpdesk Phone Lines: 0946215977, 0946215978, 0946215979
+Online Chat (Skype): wfnsupport
+Email Support: helpdesk@ncspaar.org
+General Inquiries/Email Support: info@ncspaar.org
+CENTRAL BANK OF NIGERIA, LAGOS
+
+Customer Service: 08033026123
+Email Support: fovincent@cbm.gov.ng
     <footer>
         <div class="container">
             <p>&copy; 2024 Trade with Nigeria. All Rights Reserved.</p>
