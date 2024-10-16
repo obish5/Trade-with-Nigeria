@@ -12,7 +12,6 @@
               (https://github.com/user-attachments/assets/50383c20-1486-433c-b938-987bf68f21c6)
         <p> <img> </p>https://github.com/obish5/Trade-with-Nigeria/blob/b6f6ba642786f7c3d9a32474725906c0c10697a7/Screenshot%202024-10-16%20154700.png
             <img src="Screenshot 2024-10-16 154700.png" alt="HTML5 Icon" style="width:256px;height:128px;">
-            
             <nav>
                 <ul>
 Welcome to Trade with Nigeria, your gateway to seamless global trade with one of Africa’s largest economies. We specialise in connecting international businesses to opportunities in Nigeria, offering expert guidance on market entry, regulatory compliance, and strategic partnerships. Whether you're looking to expand your reach or establish new trade connections, Trade with Nigeria is here to help you navigate the complexities of the Nigerian market and drive your business forward. Let us be your trusted partner in unlocking the potential of Nigeria's thriving industries.
