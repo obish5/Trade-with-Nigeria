@@ -23,13 +23,14 @@
         </div>
     </header>
 yoyoyoyoy
-    <section id="hero">
+        <section id="hero">
         <div class="container">
             <h2>Your Gateway to Business Opportunities in Nigeria</h2>
             <p>Explore new markets, connect with local partners, and navigate Nigerian trade regulations easily.</p>
-            <a href="#" class="cta-button">Start Trading</a>
+            <p><a href="https://nigeriatradeportal.fmiti.gov.ng/menu/87/">Start Trading</a></p>
         </div>
     </section>
+
 yoyoyoyoyoyoyoyoyo
     <section id="services">
         <div class="container">
