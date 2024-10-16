@@ -12,25 +12,7 @@
             <h1>Trade with Nigeria</h1>
             <nav>
                 <ul>
-                    Welcome to Trade with Nigeria, your gateway to seamless global trade with one of Africa’s largest economies. We specialize in connecting international businesses to opportunities in Nigeria, offering expert guidance on market entry, regulatory compliance, and strategic partnerships. Whether you're looking to expand your reach or establish new trade connections, Trade with Nigeria is here to help you navigate the complexities of the Nigerian market and drive your business forward. Let us be your trusted partner in unlocking the potential of Nigeria's thriving industries.
-
-
-
-
-
-
-
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Opportunities</a></li>
-                    <li><a href="#">Regulations</a></li>
-                    <li><a href="#">Contact</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
-yoyoyoyoy
+Welcome to Trade with Nigeria, your gateway to seamless global trade with one of Africa’s largest economies. We specialise in connecting international businesses to opportunities in Nigeria, offering expert guidance on market entry, regulatory compliance, and strategic partnerships. Whether you're looking to expand your reach or establish new trade connections, Trade with Nigeria is here to help you navigate the complexities of the Nigerian market and drive your business forward. Let us be your trusted partner in unlocking the potential of Nigeria's thriving industries.
         <section id="hero">
         <div class="container">
             <h2>Your Gateway to Business Opportunities in Nigeria</h2>
