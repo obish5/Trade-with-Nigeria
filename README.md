@@ -45,7 +45,7 @@ All services are provided subject to availability and discretion. We make no gua
             <h2>Trade Opportunities</h2>
             <p>Discover new opportunities in sectors such as agriculture, oil & gas, and technology.</p>
             <p><a> Explore Opportunities:</a>
-            <p[Nigeria Trade Information Portal.pdf](https://github.com/user-attachments/files/17390504/Nigeria.Trade.Information.Portal.pdf) 
+            <p><a [Nigeria Trade Information Portal.pdf](https://github.com/user-attachments/files/17390504/Nigeria.Trade.Information.Portal.pdf) 
         </div>
     </section>
 
