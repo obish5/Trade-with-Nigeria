@@ -22,7 +22,7 @@
             </nav>
         </div>
     </header>
-
+yoyoyoyoy
     <section id="hero">
         <div class="container">
             <h2>Your Gateway to Business Opportunities in Nigeria</h2>
@@ -30,7 +30,7 @@
             <a href="#" class="cta-button">Start Trading</a>
         </div>
     </section>
-
+yoyoyoyoyoyoyoyoyo
     <section id="services">
         <div class="container">
             <h2>Our Services</h2>
@@ -58,7 +58,7 @@
             <a href="#" class="cta-button">Explore Opportunities</a>
         </div>
     </section>
-
+yoyoyo
     <footer>
         <div class="container">
             <p>&copy; 2024 Trade with Nigeria. All Rights Reserved.</p>
