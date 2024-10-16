@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body> ![Screenshot 2024-10-16 154700](https://github.com/user-attachments/assets/50383c20-1486-433c-b938-987bf68f21c6)
-
+<body>
     <header>
         <div class="container">
             <h1>Trade with Nigeria</h1>    <p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
