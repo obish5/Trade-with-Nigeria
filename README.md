@@ -45,7 +45,7 @@ All services are provided subject to availability and discretion. We make no gua
         <div class="container">
             <h2>Trade Opportunities</h2>
             <p>Discover new opportunities in sectors such as agriculture, oil & gas, and technology.</p>
-            <a href="#" class="cta-button">Explore Opportunities</a>
+            <a href="<p><a href="https://github.com/obish5/Trade-with-Nigeria/blob/ebdf8a3055dc9836265e460ff0b412978215c0fa/Nigeria%20Trade%20Information%20Portal.pdf">" class="cta-button">Explore Opportunities</a>
         </div>
     </section>
 
