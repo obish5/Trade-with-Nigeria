@@ -7,7 +7,7 @@
 <body>
     <header>
         <div class="container">
-            <h1>Trade with Nigeria</h1>    
+            <h1>Trade with Nigeria</h1>    <img src="Screenshot 2024-10-16 154700.png" alt="HTML5 Icon" style="width:256px;height:128px;">
             <img src="Screenshot 2024-10-16 154700.png" alt="HTML5 Icon" style="width:256px;height:128px;">
             <nav>
                 <ul>
