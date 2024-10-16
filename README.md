@@ -75,8 +75,7 @@ Email Support: fovincent@cbm.gov.ng
             <p>&copy; 2024 Trade with Nigeria. All Rights Reserved.</p>
             <nav>
                 <ul>
-                    <li><a href="#">Privacy Policy</a></li>
-                    <li><a href="#">Terms of Service</a></li>
+                   <li> <p><a href="https://sway.cloud.microsoft/QalecVvzOHY1EFN4?accessible=true">Privacy Policy</a></p>
                    <li> <p><a href="https://sway.cloud.microsoft/pglLzQWOgACMGVGW?accessible=true">Terms of Service</a></p>
                 </ul>
             </nav>
