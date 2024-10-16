@@ -52,7 +52,7 @@ yoyoyoyoyoyoy
 
 <section id="support">
         <div class="container">
-        <h2> <b> FUNCTIONAL AND TECHNICAL SUPPORT</h2>
+        <h2> <b> Functional and Technical Support</h2>
 
 Webb Fontaine technical support | For issues or questions regarding the utilization of the NSW Trade Portal or its services:
 
