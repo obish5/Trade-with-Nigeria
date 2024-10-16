@@ -32,7 +32,8 @@ yoyoyoyoyoyoyoyoyo
                 <div class="card">
                     <h3>Business Matchmaking</h3>
                     <p>We connect international businesses with reliable Nigerian partners.</p>
-                </div>
+        [Nigeria Trade Information Portal.pdf](https://github.com/user-attachments/files/17390504/Nigeria.Trade.Information.Portal.pdf)
+        </div>
                 <div class="card">
                     <h3>Regulatory Guidance</h3>
                     <p>Understand Nigeria’s trade laws and ensure compliance for smooth transactions.</p>
