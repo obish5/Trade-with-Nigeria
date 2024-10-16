@@ -19,8 +19,6 @@ Welcome to Trade with Nigeria, your gateway to seamless global trade with one of
             <p><a href="https://nigeriatradeportal.fmiti.gov.ng/menu/87/">Start Trading</a></p>
         </div>
     </section>
-
-yoyoyoyoyoyoyoyoyo
     <section id="services">
         <div class="container">
             <h2>Our Services</h2>
