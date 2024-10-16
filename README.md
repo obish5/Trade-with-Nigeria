@@ -49,9 +49,9 @@ yoyoyoyoyoyoy
             <a href="#" class="cta-button">Explore Opportunities</a>
         </div>
     </section>
-FUNCTIONAL & TECHNICAL SUPPORT
 
-WEBB FONTAINE TECHNICAL SUPPORT | For issues or questions regarding the utilization of the NSW Trade Portal or its services:
+<b> FUNCTIONAL AND TECHNICAL SUPPORT
+Webb Fontaine technical support | For issues or questions regarding the utilization of the NSW Trade Portal or its services:
 
 Hot Line: 0802-6585-661, 0705-3010-369, (0) 13422567, (0) 12913265
 Online Chat (Skype): wfnsupport
