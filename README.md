@@ -8,7 +8,7 @@
     <header>
         <div class="container">
             <h1>Trade with Nigeria</h1>    <p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
-           ![Screenshot 2024-10-16 154700](https://github.com/user-attachments/assets/50383c20-1486-433c-b938-987bf68f21c6)
+          <p><img ![Screenshot 2024-10-16 154700](https://github.com/user-attachments/assets/50383c20-1486-433c-b938-987bf68f21c6)
             <nav>
                 <ul>
 Welcome to Trade with Nigeria, your gateway to seamless global trade with one of Africa’s largest economies. We specialise in connecting international businesses to opportunities in Nigeria, offering expert guidance on market entry, regulatory compliance, and strategic partnerships. Whether you're looking to expand your reach or establish new trade connections, Trade with Nigeria is here to help you navigate the complexities of the Nigerian market and drive your business forward. Let us be your trusted partner in unlocking the potential of Nigeria's thriving industries.
