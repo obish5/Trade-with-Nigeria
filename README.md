@@ -8,9 +8,6 @@
     <header>
         <div class="container">
             <h1>Trade with Nigeria</h1>    <p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
-          <p> <img> src=!"Downloads\Screenshot 2024-10-16 154700.png" alt=(https://github.com/user-attachments/assets/50383c20-1486-433c-b938-987bf68f21c6) style="float:right;width:250px;height:150px;">
-              (https://github.com/user-attachments/assets/50383c20-1486-433c-b938-987bf68f21c6)
-        <p> <img> </p>https://github.com/obish5/Trade-with-Nigeria/blob/b6f6ba642786f7c3d9a32474725906c0c10697a7/Screenshot%202024-10-16%20154700.png
             <img src="Screenshot 2024-10-16 154700.png" alt="HTML5 Icon" style="width:256px;height:128px;">
             <nav>
                 <ul>
