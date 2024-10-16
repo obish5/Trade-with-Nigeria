@@ -45,7 +45,7 @@ All services are provided subject to availability and discretion. We make no gua
             <h2>Trade Opportunities</h2>
             <p>Discover new opportunities in sectors such as agriculture, oil & gas, and technology.</p>
             <p><a> Explore Opportunities:</a>
-          <p><a href="https://github.com/obish5/Trade-with-Nigeria/blob/69d22355792ac3cd747ff5b65dde5f38f2252e85/Nigeria%20Trade%20Information%20Portal.pdf"
+          <p><a> href="https://github.com/obish5/Trade-with-Nigeria/blob/69d22355792ac3cd747ff5b65dde5f38f2252e85/Nigeria%20Trade%20Information%20Portal.pdf"
         </div>
     </section>
 
